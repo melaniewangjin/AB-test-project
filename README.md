@@ -1,9 +1,9 @@
 # AB-test-
 Python Codes for AB test
 
-1. Sanity_check
+1. Sanity check
  
-2. Power_Analysis
+2. Power Analysis
 
 3. Statistical Tests : with t-test, z-test, bootstrap 
 
